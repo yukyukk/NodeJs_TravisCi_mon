@@ -1,6 +1,5 @@
 # Creating node Project
 
-[![Build Status](https://travis-ci.org/pritamworld/node_travis_ci_integration.svg?branch=master)](https://travis-ci.org/pritamworld/node_travis_ci_integration)
 
 - mkdir week03_node_example
 - cd week03_node_example
